@@ -30,6 +30,6 @@
 *.exe
 *.out
 *.app
-
 build
-bu
+.vscode
+compile_commands.json
